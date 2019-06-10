@@ -26,8 +26,6 @@ function Header(props) {
         </View>
     )
 }
-export default Header;
-
 const styles = StyleSheet.create({
     container: {
         paddingVertical: 10,
@@ -45,6 +43,6 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-end',
 
     }
-
-
 })
+
+export default Header;

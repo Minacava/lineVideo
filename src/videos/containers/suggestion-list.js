@@ -5,28 +5,44 @@ import {
 } from 'react-native';
 
 import Layout from '../components/suggestion-list-layout';
+import Empty from '../components/empty';
+import Separator from '../components/vertical-separator';
+import Suggestion from '../components/suggestions';
 
-export default class SuggestionList extends Component {
+class SuggestionList extends Component {
+
+    renderEmpty = () => <Empty text='No hay sugerencias :(' />
+    itemSeparator = () => <Separator />
+    renderItem = ({ item }) => {
+        return (
+            <Suggestion{...item} />
+        )
+    }
     render() {
         const list = [
             {
-                title: 'mina',
-                key: '1'
+                title: 'Avengers',
+                key: 1,
             },
             {
-                title: 'marina',
-                key: '2'
+                title: 'Aladdin',
+                key: 2,
             }
+
         ]
         return (
             <Layout
-                title='Recomendaciónes'>
+                title='Sugerencias'>
                 <FlatList
                     data={list}
-                    renderItem={({ item }) => <Text>{item.title}</Text>}
+                    ListEmptyComponent={this.renderEmpty}
+                    ItemSeparatorComponent={this.itemSeparator}
+                    renderItem={this.renderItem}
                 />
             </Layout>
 
         )
     }
 }
+
+export default SuggestionList;
