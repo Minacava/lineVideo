@@ -17,8 +17,8 @@ export default class Loader extends Component {
                             this.animation = animation;
                         }}
                         style={{
-                            width: 250,
-                            height: 250
+                            width: 80,
+                            height: 80
                         }}
                         loop={true}
                         source={Activity}
@@ -31,7 +31,7 @@ export default class Loader extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
         alignItems: 'center',
+        justifyContent: 'center'
     },
 });

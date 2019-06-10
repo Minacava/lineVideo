@@ -16,8 +16,8 @@ function VerticalSeparator(props) {
 }
 const styles = StyleSheet.create({
     separator: {
-        borderTopWidth: 1,
-        width: "95%"
+        borderTopWidth: 0.7,
+
 
     }
 })

@@ -6,17 +6,24 @@ import Header from './src/sections/components/header';
 import SuggestionList from './src/videos/containers/suggestion-list'
 import API from './utils/api';
 import Loader from './utils/loader';
+import CategoryList from './src/videos/containers/category-list.js'
 
 
 export default class App extends Component {
   state = {
+    categoryList: [],
     suggestionList: [],
-    loading: true
+    loading: true,
+
   }
   async componentDidMount() {
     const movies = await API.getSuggestions(10);
+    const categories = await API.getMovies();
     console.log(movies)
+    console.log(categories)
+
     this.setState({
+      categoryList: categories,
       suggestionList: movies,
       loading: false,
     })
@@ -28,7 +35,9 @@ export default class App extends Component {
         <Header />
         <Text>Buscador</Text>
         <Text>Categorias</Text>
-        <Text>Sugerencias</Text>
+        <CategoryList
+          list={this.state.categoryList}
+        />
         {this.state.loading ? (
           <Loader />
         ) : (
@@ -36,9 +45,7 @@ export default class App extends Component {
               list={this.state.suggestionList}
             />
           )
-
         }
-
       </Home>
     );
   }
