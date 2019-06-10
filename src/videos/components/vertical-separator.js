@@ -1,8 +1,7 @@
 import React from 'react';
 import {
     View,
-    Text,
-    StyleSheet
+    StyleSheet, Dimensions
 } from 'react-native';
 
 function VerticalSeparator(props) {
@@ -15,10 +14,10 @@ function VerticalSeparator(props) {
         </View>
     )
 }
-
 const styles = StyleSheet.create({
     separator: {
         borderTopWidth: 1,
+        width: "95%"
 
     }
 })
