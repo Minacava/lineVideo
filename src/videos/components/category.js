@@ -3,7 +3,6 @@ import {
     Text,
     StyleSheet,
     View,
-    ImageBackground,
     Platform
 } from 'react-native';
 
@@ -13,10 +12,8 @@ function Category(props) {
             style={styles.wrapper}>
             <Text style={styles.genre}>{props.genres[0]}</Text>
         </View>
-
     )
 }
-
 const styles = StyleSheet.create({
     wrapper: {
         width: 250,

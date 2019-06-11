@@ -33,10 +33,15 @@ const styles = StyleSheet.create({
     contanier: {
         flexDirection: 'row',
     },
+    left: {
+        borderTopLeftRadius: 90,
+        overflow: 'hidden',
+    },
     cover: {
         width: 100,
         height: 150,
-        resizeMode: 'contain'
+        resizeMode: 'contain',
+
     },
     genre: {
         position: 'absolute',
