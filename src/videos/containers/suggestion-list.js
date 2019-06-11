@@ -5,7 +5,6 @@ import {
 } from 'react-native';
 
 import Layout from '../components/suggestion-list-layout';
-import Empty from '../components/empty';
 import Separator from '../components/vertical-separator';
 import Suggestion from '../components/suggestions';
 
@@ -20,7 +19,7 @@ class SuggestionList extends Component {
     render() {
         return (
             <Layout
-                title='Sugerencias'>
+                title='Suggestions'>
                 <FlatList
                     keyExtractor={this.keyExtractor}
                     data={this.props.list}

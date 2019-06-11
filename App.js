@@ -34,7 +34,6 @@ export default class App extends Component {
       <Home>
         <Header />
         <Text>Buscador</Text>
-        <Text>Categorias</Text>
         <CategoryList
           list={this.state.categoryList}
         />

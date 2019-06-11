@@ -33,8 +33,8 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
     },
     logo: {
-        width: 50,
-        height: 76,
+        width: 90,
+        height: 116,
         resizeMode: 'contain',
     },
     right: {

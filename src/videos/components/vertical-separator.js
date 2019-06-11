@@ -1,7 +1,7 @@
 import React from 'react';
 import {
     View,
-    StyleSheet, Dimensions
+    StyleSheet
 } from 'react-native';
 
 function VerticalSeparator(props) {
