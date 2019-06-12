@@ -23,7 +23,7 @@ function Suggestion(props) {
             <View style={styles.right}>
                 <Text style={styles.title}>{props.title}</Text>
                 <Text style={styles.year}>{props.year}</Text>
-                <Text style={styles.rating}>{props.rating}</Text>
+                <Text style={styles.rating}>IMDB {props.rating}</Text>
             </View>
         </View>
     )
@@ -32,6 +32,8 @@ function Suggestion(props) {
 const styles = StyleSheet.create({
     contanier: {
         flexDirection: 'row',
+        borderRadius: 20,
+        backgroundColor: '#F2F2F3',
     },
     left: {
         borderTopLeftRadius: 90,
@@ -57,12 +59,14 @@ const styles = StyleSheet.create({
         fontSize: 11,
     },
     right: {
-        paddingLeft: 10,
-        justifyContent: 'space-between',
+        paddingLeft: 25,
+        justifyContent: 'center',
     },
     title: {
         fontSize: 18,
-        color: "#44546b"
+        color: "#283547",
+        fontWeight: 'bold',
+        paddingBottom: 6
     },
     year: {
         backgroundColor: '#3E55F3',
@@ -72,12 +76,13 @@ const styles = StyleSheet.create({
         fontSize: 11,
         borderRadius: 5,
         overflow: 'hidden',
-        alignSelf: 'flex-start'
+        alignSelf: 'flex-start',
     },
     rating: {
         color: '#6b6b6b',
         fontSize: 14,
-        fontWeight: 'bold',
+        paddingTop: 3
+
     },
 
 })

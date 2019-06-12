@@ -20,8 +20,8 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     title: {
-        color: '#F75C5E',
-        fontSize: 30,
+        color: '#283547',
+        fontSize: 20,
         marginBottom: 20,
         letterSpacing: 1,
         fontWeight: 'bold',

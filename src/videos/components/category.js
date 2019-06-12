@@ -3,30 +3,31 @@ import {
     Text,
     StyleSheet,
     View,
-    Platform
+    Platform,
+    TouchableOpacity
 } from 'react-native';
 
 function Category(props) {
     return (
-        <View
+        <TouchableOpacity
             style={styles.wrapper}>
             <Text style={styles.genre}>{props.genres[0]}</Text>
-        </View>
+        </TouchableOpacity>
     )
 }
 const styles = StyleSheet.create({
     wrapper: {
-        width: 250,
-        height: 100,
+        width: 150,
+        height: 80,
         borderRadius: 10,
         overflow: 'hidden',
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: '#397DE8'
+        backgroundColor: '#283547'
     },
     genre: {
         color: 'white',
-        fontSize: 30,
+        fontSize: 20,
         fontWeight: 'bold',
         textShadowColor: 'rgba(0,0,0, .20)',
         textShadowOffset: {

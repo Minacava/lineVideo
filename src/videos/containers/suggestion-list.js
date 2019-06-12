@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {
     FlatList,
-    Text
 } from 'react-native';
 
 import Layout from '../components/suggestion-list-layout';
@@ -19,7 +18,8 @@ class SuggestionList extends Component {
     render() {
         return (
             <Layout
-                title='Suggestions'>
+                title='Recommended For You'
+            >
                 <FlatList
                     keyExtractor={this.keyExtractor}
                     data={this.props.list}

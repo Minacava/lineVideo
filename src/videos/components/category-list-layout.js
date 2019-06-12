@@ -8,7 +8,7 @@ import {
 function CategoryListLayout(props) {
     return (
         <ImageBackground
-            source={require('../../../assets/background.png')}
+            // source={require('../../../assets/background.png')}
             style={styles.container}
         >
             <Text style={styles.title}>{props.title}</Text>
