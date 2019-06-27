@@ -31,8 +31,7 @@ export default class App extends Component {
   render() {
     return (
       <Home>
-        <Header
-        />
+        <Header />
         <Player />
         <Text>Buscador</Text>
         <CategoryList
@@ -40,8 +39,8 @@ export default class App extends Component {
         />
         <SuggestionList
           list={this.state.suggestionList}
-            />
-    
+        />
+
       </Home>
     );
   }

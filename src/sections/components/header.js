@@ -28,13 +28,13 @@ function Header(props) {
 }
 const styles = StyleSheet.create({
     container: {
-        paddingVertical: 10,
-        paddingHorizontal: 10,
+        paddingVertical: 5,
+        paddingHorizontal: 5,
         flexDirection: 'row',
     },
     logo: {
-        width: 90,
-        height: 116,
+        width: 70,
+        height: 96,
         resizeMode: 'contain',
     },
     right: {

@@ -1,9 +1,9 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.m \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
-  /Users/marina/Desktop/ReactNative/LineApp/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/marina/Desktop/ReactNative/LineApp/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/marina/Desktop/ReactNative/LineApp/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/marina/Desktop/ReactNative/LineApp/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.m \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

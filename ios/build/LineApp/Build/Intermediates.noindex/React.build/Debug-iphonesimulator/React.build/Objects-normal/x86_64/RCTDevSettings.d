@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/marina/Desktop/ReactNative/LineApp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
