@@ -7,7 +7,6 @@ export default class Loader extends Component {
     componentDidMount() {
         this.animation.play();
     }
-
     render() {
         return (
             <View >
