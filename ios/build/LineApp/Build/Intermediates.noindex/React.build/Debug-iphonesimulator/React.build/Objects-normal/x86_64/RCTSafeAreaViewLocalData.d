@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.m \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.m \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h

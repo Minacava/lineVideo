@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/fishhook/fishhook.c \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/fishhook/fishhook.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/fishhook/fishhook.c \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/fishhook/fishhook.h

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		dqe1XbV+1pHMjJfxi+BNGzn2dlk=
+		L7mcK+qYcxBrDQ603gltJsPQJ34=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		92UWmT8hbIYCI+rcoxzCSC8v+X8=
+		QkDyCpvY1oy456kQjNYJl0k235M=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -83,19 +83,19 @@
 		</data>
 		<key>PlugIns/LineAppTests.xctest.dSYM/Contents/Resources/DWARF/LineAppTests</key>
 		<data>
-		t0OUdZ5aar7rrJ2Awg3JdR5D4mA=
+		NVybTeZEGw8ptutK/fjwf3RiCKg=
 		</data>
 		<key>PlugIns/LineAppTests.xctest/Info.plist</key>
 		<data>
-		gcgXQQIPHUDaqNwDa/m0tu0dDXY=
+		/5HIljx6RyNeF27GFXbSd9C4Fng=
 		</data>
 		<key>PlugIns/LineAppTests.xctest/LineAppTests</key>
 		<data>
-		S0QpdU+FkvuVvrEJZLnoPs52Z80=
+		cYcyeXfkHLXyenQTNARkbFqrohs=
 		</data>
 		<key>PlugIns/LineAppTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		qEBvg92V1kd8QIJgkSRTOo8l9kA=
+		tS11RyQKOXLnf/BYe+dRHsW/01s=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -104,11 +104,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dqe1XbV+1pHMjJfxi+BNGzn2dlk=
+			L7mcK+qYcxBrDQ603gltJsPQJ34=
 			</data>
 			<key>hash2</key>
 			<data>
-			PpTCXPkmc3Qv/Fryn6jvCEyu36ZdbGmEyiPyCtBH42Y=
+			zSEA0L+nMUvdIKOLSXCllsivlgVdU0LZWLaxrOOXPSY=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -282,44 +282,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t0OUdZ5aar7rrJ2Awg3JdR5D4mA=
+			NVybTeZEGw8ptutK/fjwf3RiCKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			KgTZ1QIhOK8dVmW5MBqahhB7xazxSj9dDGRM10ifbVc=
+			hazFu4480Trdw5sgSk7uXUYQXbci74i0Kj6elZP6qZ0=
 			</data>
 		</dict>
 		<key>PlugIns/LineAppTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gcgXQQIPHUDaqNwDa/m0tu0dDXY=
+			/5HIljx6RyNeF27GFXbSd9C4Fng=
 			</data>
 			<key>hash2</key>
 			<data>
-			eaMSnP6nR5JIprDeIQb84EtpSwEqDrrjEqV65VW8ZKE=
+			lyhdN0hdnIXifvklbkn85eHexUgQ+huCeyofd1286/o=
 			</data>
 		</dict>
 		<key>PlugIns/LineAppTests.xctest/LineAppTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S0QpdU+FkvuVvrEJZLnoPs52Z80=
+			cYcyeXfkHLXyenQTNARkbFqrohs=
 			</data>
 			<key>hash2</key>
 			<data>
-			qWn1npxA9+NkN6VIHI0a7rcGAyaSpcBFrOmdLJZPaA4=
+			YwrFKaVYYPp62T1B5oEjW08YFBoW7EHnY9T1tGct3gs=
 			</data>
 		</dict>
 		<key>PlugIns/LineAppTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qEBvg92V1kd8QIJgkSRTOo8l9kA=
+			tS11RyQKOXLnf/BYe+dRHsW/01s=
 			</data>
 			<key>hash2</key>
 			<data>
-			IeMvmNDz5CF8HIPtM6p9yQ670hAhHVWSYrhbMtezFao=
+			NZGn0IPjB752Fi3WziI3OUn+fQP57cPwlWi+sqJoXK0=
 			</data>
 		</dict>
 	</dict>

@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceView.mm \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurface.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Views/RCTView.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Views/RCTPointerEvents.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceView.mm \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Views/RCTView.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Views/RCTPointerEvents.h

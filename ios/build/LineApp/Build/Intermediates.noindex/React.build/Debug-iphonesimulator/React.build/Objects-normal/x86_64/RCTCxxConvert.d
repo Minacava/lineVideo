@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTCxxConvert.m \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTCxxConvert.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTCxxConvert.m \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTCxxConvert.h

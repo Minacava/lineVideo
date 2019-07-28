@@ -1,13 +1,13 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h

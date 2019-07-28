@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.m \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/marina/Desktop/ReactNative/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.m \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

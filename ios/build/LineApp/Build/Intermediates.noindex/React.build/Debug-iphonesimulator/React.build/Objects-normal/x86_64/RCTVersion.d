@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/marina/Desktop/ReactNative/lineVideo/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTVersion.m \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTVersion.h
