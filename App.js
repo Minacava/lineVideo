@@ -31,7 +31,6 @@ export default class App extends Component {
       <Home>
         <Header />
         <Player />
-        <Text>Buscador</Text>
         <CategoryList list={this.state.categoryList} />
         <SuggestionList list={this.state.suggestionList} />
       </Home>

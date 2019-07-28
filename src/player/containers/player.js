@@ -5,17 +5,22 @@ import Layout from "../components/layout";
 import PlayPause from "../components/play-pausa";
 import ControlLayout from "../components/control-layout";
 
+
 class Player extends Component {
   state = {
-    loading: true
+    loading: true,
+    paused: false,
   };
   onBuffer = ({ isBuffering }) => {
     this.setState({
       loading: isBuffering
     });
   };
-
-  playPause = () => {};
+  playPause = () => {
+    this.setState({
+      paused: !this.state.paused
+    });
+  };
   render() {
     return (
       <Layout
@@ -36,12 +41,16 @@ class Player extends Component {
             onEnd={this.End}
             onBuffer={this.onBuffer}
             onLoad={this.onLoad}
+            paused={this.state.paused}
           />
         }
         loader={<ActivityIndicator color="white" />}
-        control={
+        controls={
           <ControlLayout>
-            <PlayPause onPress={this.playPause} />
+            <PlayPause
+              onPress={this.playPause}
+              paused={this.state.paused}
+            />
             <Text>Progress bar</Text>
             <Text>Time left</Text>
             <Text>Fullscreen</Text>
