@@ -1,74 +1,129 @@
-import React, { Component } from "react";
-import Video from "react-native-video";
-import { StyleSheet, ActivityIndicator, Text } from "react-native";
-import Layout from "../components/layout";
-import PlayPause from "../components/play-pausa";
-import ControlLayout from "../components/control-layout";
-
+import React, { Component } from 'react';
+import Video from 'react-native-video';
+import { StyleSheet, ActivityIndicator, View } from 'react-native';
+import Layout from '../components/layout';
+import ControlLayout from '../components/control-layout';
+import PlayPause from '../components/play-pause';
+import FullScreen from '../components/fullscreen';
+import ProgressBar from '../components/progressbar';
+import TimeLeft from '../components/timeleft';
+import Volume from '../components/volume';
 
 class Player extends Component {
   state = {
     loading: true,
-    paused: false,
-  };
+    pause: false,
+    fullScreen: false,
+    progress: 0.0,
+    duration: 0.00,
+    currentTime: 0.00,
+    volume: 0,
+    muted: true
+  }
+  //ios - loader
   onBuffer = ({ isBuffering }) => {
     this.setState({
       loading: isBuffering
-    });
-  };
-  playPause = () => {
+    })
+  }
+  //android - loader
+  onLoad = (payload) => {
     this.setState({
-      paused: !this.state.paused
+      loading: false
+    })
+  }
+  playPause = () => {
+    this.setState(function (prevState) {
+      return { pause: !prevState.pause }
+    })
+  }
+  fullScreen = () => {
+    this.setState(function (prevState) {
+      return { fullScreen: !prevState.fullScreen }
+    })
+  }
+  onFullScreen = () => {
+    this.fullScreen();
+    this.state.fullScreen ? this.video.dismissFullscreenPlayer() : this.video.presentFullscreenPlayer(); //esto no funciona del todo bien 
+  }
+  videoRef = (element) => {
+    this.video = element;
+  }
+  onProgress = (playload) => {
+    let currentTime = playload.currentTime / 60; //tiempo transcurrido en minutos
+    let minutes = Math.floor(currentTime); //tiempo transcurrido sin decimales
+    let seconds = currentTime % 1;
+    seconds = (seconds * 60) / 1000;
+    let time = (minutes + seconds * 10).toFixed(2); //toFixed(2) 2 decimales
+    let duration = (playload.seekableDuration / 60).toFixed(2)//seekableDuration: duracion de todo el video
+    this.setState({
+      currentTime: time,
+      progress: (playload.currentTime / playload.seekableDuration),
+      duration: duration
     });
-  };
+  }
+  onVolume = () => {
+    var volume = this.state.volume + 0.5
+    var muted = this.state.muted
+    if (volume > 1) {
+      volume = 0
+      muted = true
+    } else {
+      muted = false
+    }
+    this.setState({
+      volume: volume,
+      muted: muted
+    })
+  }
+
   render() {
     return (
       <Layout
         loading={this.state.loading}
+        loader={<ActivityIndicator color="white" />}
         video={
           <Video
+            muted={this.state.muted}
             source={require("../../../assets/TRAFFIK-cover-trailer.mp4")}
-            rate={1.0}
-            volume={2.0}
-            muted={true}
-            resizeMode="cover"
             style={styles.video}
-            ref={ref => {
-              this.player = ref;
-            }}
-            repeat={false}
-            ignoreSilentSwitch={"ignore"}
-            onEnd={this.End}
+            resizeMode="contain"
             onBuffer={this.onBuffer}
             onLoad={this.onLoad}
-            paused={this.state.paused}
+            paused={this.state.pause}
+            ref={this.videoRef}
+            onProgress={this.onProgress}
+            volume={this.state.volume}
           />
         }
-        loader={<ActivityIndicator color="white" />}
         controls={
           <ControlLayout>
-            <PlayPause
-              onPress={this.playPause}
-              paused={this.state.paused}
-            />
-            <Text>Progress bar</Text>
-            <Text>Time left</Text>
-            <Text>Fullscreen</Text>
+            <PlayPause onPress={this.playPause} paused={this.state.pause} />
+            <TimeLeft duration={this.state.duration} currentTime={this.state.currentTime} />
+            <View style={styles.controlsRight}>
+              <Volume
+                onPress={this.onVolume}
+                volume={this.state.volume}
+                muted={this.state.muted}
+              />
+              <FullScreen fullScreen={this.state.fullScreen} onPress={this.onFullScreen} />
+            </View>
           </ControlLayout>
         }
       />
-    );
+    )
   }
 }
-
 const styles = StyleSheet.create({
   video: {
-    position: "absolute",
+    position: 'absolute',
     left: 0,
     right: 0,
     bottom: 0,
     top: 0
+  },
+  controlsRight: {
+    flexDirection: 'row',
   }
-});
-
-export default Player;
+})
+export default Player

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Text, View } from "react-native";
 
 import Home from "./src/screens/containers/home";
 import Header from "./src/sections/components/header";

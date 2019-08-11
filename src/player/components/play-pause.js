@@ -9,7 +9,16 @@ import {
 
 function PlayPause(props) {
   return (
-    <TouchableHighlight onPress={props.onPress} style={styles.container}>
+    <TouchableHighlight
+      onPress={props.onPress}
+      style={styles.container}
+      hitSlop={{
+        left: 5,
+        top: 5,
+        bottom: 5,
+        right: 5
+      }}
+    >
       {
         props.paused ?
           <Text style={styles.btnWhite}>PLAY</Text>
