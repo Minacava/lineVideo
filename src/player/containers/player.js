@@ -5,7 +5,6 @@ import Layout from '../components/layout';
 import ControlLayout from '../components/control-layout';
 import PlayPause from '../components/play-pause';
 import FullScreen from '../components/fullscreen';
-import ProgressBar from '../components/progressbar';
 import TimeLeft from '../components/timeleft';
 import Volume from '../components/volume';
 
