@@ -16,21 +16,14 @@ export default class App extends Component {
   //   loading: true
   // };
   async componentDidMount() {
-    const suggestionList = await API.getSuggestions(10);
     const categoryList = await API.getMovies();
-    console.log(movies);
-    console.log(categories);
-    // this.setState({
-    //   categoryList: categories,
-    //   suggestionList: movies,
-    //   loading: false
-    // });
     store.dispatch({
       type: 'SET_CATEGORY_LIST',
       payload: {
         categoryList
       }
     })
+    const suggestionList = await API.getSuggestions(10);
     store.dispatch({
       type: 'SET_SUGGESTION_LIST',
       payload: {
