@@ -10,9 +10,10 @@ import Category from '../components/category';
 import Layout from '../components/category-list-layout';
 import { connect } from 'react-redux';
 
-
-function mapStateToProps(state) { }
-
+function mapStateToProps(state) {
+    debugger
+    // return {}
+}
 
 class CategoryList extends Component {
     keyExtractor = (item) => item.id.toString()
