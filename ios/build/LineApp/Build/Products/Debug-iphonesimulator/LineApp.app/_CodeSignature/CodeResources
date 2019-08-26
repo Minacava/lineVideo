@@ -139,7 +139,7 @@
 		</data>
 		<key>PlugIns/LineAppTests.xctest.dSYM/Contents/Resources/DWARF/LineAppTests</key>
 		<data>
-		I20BTz+2wqpdznpw8diHDWUZ6Tc=
+		NayF0wJlz138LxCWbJG+mXvyDoE=
 		</data>
 		<key>PlugIns/LineAppTests.xctest/Info.plist</key>
 		<data>
@@ -147,7 +147,7 @@
 		</data>
 		<key>PlugIns/LineAppTests.xctest/LineAppTests</key>
 		<data>
-		C3vrLRK3QYyNtEcDHMAGrZ9ZP40=
+		O6eHdrdsbKP79MAd51BPpdgnvHA=
 		</data>
 		<key>PlugIns/LineAppTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -500,11 +500,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I20BTz+2wqpdznpw8diHDWUZ6Tc=
+			NayF0wJlz138LxCWbJG+mXvyDoE=
 			</data>
 			<key>hash2</key>
 			<data>
-			d9H8vUv1upz+KHd/CIUggSPU+R6EQnYhQs/m37OH5bM=
+			Vtapt0xn6TEflVTg9ikcnDNQRIhZ942B2ADbCt0+AmQ=
 			</data>
 		</dict>
 		<key>PlugIns/LineAppTests.xctest/Info.plist</key>
@@ -522,11 +522,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C3vrLRK3QYyNtEcDHMAGrZ9ZP40=
+			O6eHdrdsbKP79MAd51BPpdgnvHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			a7wgcPqx2QzwKn1jACOHK0UkSIrhD50LD9lvpvPw4o0=
+			g5O6MpDHVmTFnGem310orXXbEYyQ/YhKQwi6V+B5vHA=
 			</data>
 		</dict>
 		<key>PlugIns/LineAppTests.xctest/_CodeSignature/CodeResources</key>

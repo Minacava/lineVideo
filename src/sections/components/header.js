@@ -7,8 +7,6 @@ import {
     Text,
 } from 'react-native';
 
-
-
 function Header(props) {
     return (
         <View>
@@ -33,8 +31,8 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
     },
     logo: {
-        width: 70,
-        height: 96,
+        width: 50,
+        height: 76,
         resizeMode: 'contain',
     },
     right: {

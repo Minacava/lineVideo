@@ -6,6 +6,7 @@ import {
     TouchableOpacity
 } from 'react-native';
 
+
 function Category(props) {
     return (
         <TouchableOpacity
@@ -41,9 +42,6 @@ const styles = StyleSheet.create({
                 textShadowRadius: 1,
             },
         }),
-
-
     }
-
 })
 export default Category;
