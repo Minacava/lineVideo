@@ -6,38 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>86AFF40C-C647-4348-8039-F10490B08607</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>86AFF40C-C647-4348-8039-F10490B08607.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LineApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LineApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project LineApp with scheme LineApp and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>588468388.36826301</real>
-			<key>timeStoppedRecording</key>
-			<real>588468389.74422204</real>
-			<key>title</key>
-			<string>Building project LineApp with scheme LineApp and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>86AFF40C-C647-4348-8039-F10490B08607</string>
-		</dict>
 		<key>B80A73AB-D564-4D3D-B531-3A6E7C2D6A93</key>
 		<dict>
 			<key>className</key>
