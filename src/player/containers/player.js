@@ -43,18 +43,19 @@ class Player extends Component {
   }
   onFullScreen = () => {
     this.fullScreen();
-    this.state.fullScreen ? this.video.dismissFullscreenPlayer() : this.video.presentFullscreenPlayer(); //esto no funciona del todo bien 
+    this.state.fullScreen ? this.video.dismissFullscreenPlayer() : this.video.presentFullscreenPlayer();
+    this.fullScreen();
   }
   videoRef = (element) => {
     this.video = element;
   }
   onProgress = (playload) => {
-    let currentTime = playload.currentTime / 60; //tiempo transcurrido en minutos
-    let minutes = Math.floor(currentTime); //tiempo transcurrido sin decimales
+    let currentTime = playload.currentTime / 60;
+    let minutes = Math.floor(currentTime);
     let seconds = currentTime % 1;
     seconds = (seconds * 60) / 1000;
-    let time = (minutes + seconds * 10).toFixed(2); //toFixed(2) 2 decimales
-    let duration = (playload.seekableDuration / 60).toFixed(2)//seekableDuration: duracion de todo el video
+    let time = (minutes + seconds * 10).toFixed(2);
+    let duration = (playload.seekableDuration / 60).toFixed(2)
     this.setState({
       currentTime: time,
       progress: (playload.currentTime / playload.seekableDuration),

@@ -19,14 +19,13 @@ function Header(props) {
                         {props.children}
                     </View>
                 </View>
-
             </SafeAreaView>
         </View>
     )
 }
 const styles = StyleSheet.create({
     container: {
-        paddingVertical: 5,
+        paddingVertical: 1,
         paddingHorizontal: 5,
         flexDirection: 'row',
     },

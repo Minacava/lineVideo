@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>FAKETEAMID.org.reactjs.native.example.LineApp</string>
+	<string>7PYK8XUWA3.org.reactjs.native.example.LineApp</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>FAKETEAMID.org.reactjs.native.example.LineApp</string>
+		<string>7PYK8XUWA3.org.reactjs.native.example.LineApp</string>
 	</array>
 </dict>
 </plist>

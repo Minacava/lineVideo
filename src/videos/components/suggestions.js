@@ -5,18 +5,37 @@ import {
     Image,
     Text,
     StyleSheet,
-    TouchableOpacity
+    TouchableOpacity,
+    Animated
 } from 'react-native';
 
 function Suggestion(props) {
+    this.fadeImage = new Animated.Value(0)
+    Animated.timing(this.fadeImage, {
+        toValue: 1,
+        duration: 500,
+        useNativeDriver: true,
+    }).start()
     return (
         <TouchableOpacity
             onPress={props.onPress}
         >
             <View style={styles.contanier}>
                 <View style={styles.left}>
-                    <Image
-                        style={styles.cover}
+                    <Animated.Image
+                        style={[styles.cover,
+                        {
+                            opacity: this.fadeImage,
+                            transform: [
+                                {
+                                    scale: this.fadeImage.interpolate({
+                                        inputRange: [0, 1],
+                                        outputRange: [0.85, 1],
+                                    })
+                                }
+                            ]
+
+                        }]}
                         source={{ uri: props.medium_cover_image }}
                     />
                 </View>

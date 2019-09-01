@@ -17,6 +17,7 @@ function FullScreen(props) {
                 {
                     props.fullScreen ? <Iconf name="compress" color="white" size={20} /> : <Icon name="md-expand" size={20} color="white" />
                 }
+
             </TouchableHighlight>
         </View>
     )
