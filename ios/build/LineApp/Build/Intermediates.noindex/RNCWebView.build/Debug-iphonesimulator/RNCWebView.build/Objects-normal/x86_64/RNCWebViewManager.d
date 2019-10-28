@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native-webview/ios/RNCWebViewManager.m \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native-webview/ios/RNCWebViewManager.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native-webview/ios/RNCWebView.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/React/RCTView.h

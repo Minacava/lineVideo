@@ -22,7 +22,7 @@ class Movie extends Component {
                         onPress={this.closeVideo}
                     />
                 </Header>
-                <Player />
+                <Player {...this.props.movie} />
                 <Details {...this.props.movie} />
             </MovieLayout>
         )

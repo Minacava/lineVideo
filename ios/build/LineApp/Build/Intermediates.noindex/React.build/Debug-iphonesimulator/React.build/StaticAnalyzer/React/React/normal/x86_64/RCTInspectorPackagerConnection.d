@@ -8,4 +8,4 @@ dependencies: \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTLog.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

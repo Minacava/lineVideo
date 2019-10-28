@@ -5,9 +5,9 @@ dependencies: \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/ios/build/LineApp/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Portability.h \
-  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Config.h \
-  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
   /Users/minamac/Desktop/Proyectos/lineVideo/node_modules/react-native/React/Base/RCTBridgeModule.h \

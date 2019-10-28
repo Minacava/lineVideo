@@ -19,6 +19,8 @@ class Player extends Component {
     volume: 0,
     muted: true
   }
+
+
   //ios - loader
   onBuffer = ({ isBuffering }) => {
     this.setState({
@@ -49,6 +51,8 @@ class Player extends Component {
   videoRef = (element) => {
     this.video = element;
   }
+
+
   onProgress = (playload) => {
     let currentTime = playload.currentTime / 60;
     let minutes = Math.floor(currentTime);
@@ -78,6 +82,8 @@ class Player extends Component {
   }
 
   render() {
+    const id = this.props.yt_trailer_code
+    console.log(this.props.yt_trailer_code)
     return (
       <Layout
         loading={this.state.loading}
@@ -85,7 +91,7 @@ class Player extends Component {
         video={
           <Video
             muted={this.state.muted}
-            source={require("../../../assets/TRAFFIK-cover-trailer.mp4")}
+            source={{ uri: (`https://www.youtube.com/watch?v=${id}`) }}
             style={styles.video}
             resizeMode="contain"
             onBuffer={this.onBuffer}
