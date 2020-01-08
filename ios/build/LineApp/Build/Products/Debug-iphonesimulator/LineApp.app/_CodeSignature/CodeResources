@@ -8,9 +8,13 @@
 		<data>
 		TneGhDkoD7Q01Gl8e5EScUBsgfM=
 		</data>
-		<key>Base.lproj/LaunchScreen.nib</key>
+		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		yZIXC7ZGQxJXuTMtqqL3eN71AdY=
+		Y8CzL+6siZBzqAo7tpEggeoCF9s=
+		</data>
+		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
+		<data>
+		ii4fO9CzPrYF6JFUt+xXQVNFeWU=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -48,9 +52,70 @@
 		<data>
 		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
+		<data>
+		AdKQCVgu+kQPYrraHZk0nvHb0RU=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
+		<data>
+		GwWBYHmtIC5nM9L567YjKxjxUO4=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/Info.plist</key>
+		<data>
+		JwMIHni/EdOAatQ224suJ1+dZ5Q=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/LogArchiveCollector</key>
+		<data>
+		6r6P0UwyV4OqZfp8uRuCcXLHvvY=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/_CodeSignature/CodeResources</key>
+		<data>
+		p92DS4NIbZMvY0OPJu62b9/1sU0=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/version.plist</key>
+		<data>
+		xw1wNR30d0uNbLSxaGNoHbLwXZ0=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
+		<data>
+		yurPxzU8RrW0ci+3MIuO3M8Aqmk=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
+		<data>
+		ph88guKiS8ESpMndI0uwmxfIH+0=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		BzLsBYpQlEle0+r94iOQ4dN0BFU=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		PRzeq60zTFuBhE7Fg4wAJnOX9nM=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		7n5oRI2o67livUgKowi9dL1ewUQ=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		ph88guKiS8ESpMndI0uwmxfIH+0=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		q1wqJjLP7rmsLVcDtfo6VEQA6Vo=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		1VL3W8rOgVGC19G6ggV985UrD1E=
+		ZG76Y62t+MzhvV/L1bK8Hb43tkk=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -71,6 +136,26 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/LineAppTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		Il2EHXKVgw9ytk7w98WuqoVwIrc=
+		</data>
+		<key>PlugIns/LineAppTests.xctest.dSYM/Contents/Resources/DWARF/LineAppTests</key>
+		<data>
+		oF3/xoBMLXaIIFAdGTVEXsPrb5Q=
+		</data>
+		<key>PlugIns/LineAppTests.xctest/Info.plist</key>
+		<data>
+		xwpmQhniaSyfJTdxmIdioXhJhHA=
+		</data>
+		<key>PlugIns/LineAppTests.xctest/LineAppTests</key>
+		<data>
+		1ooH+2hJdl1JrP3Pvy9h26acluI=
+		</data>
+		<key>PlugIns/LineAppTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		ks1++oi37S2bHWKIw8k5NlEhbWk=
 		</data>
 		<key>SimpleLineIcons.ttf</key>
 		<data>
@@ -94,15 +179,26 @@
 			eVXKFBJ7MEEsEU6xPP1wK12rJl/rGIDRaV1zyqgkzeE=
 			</data>
 		</dict>
-		<key>Base.lproj/LaunchScreen.nib</key>
+		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yZIXC7ZGQxJXuTMtqqL3eN71AdY=
+			Y8CzL+6siZBzqAo7tpEggeoCF9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			2LByCIrhIpgdJqca3EuckrwOZ7jtVQ/7bgN6S+CmfH8=
+			AHchJoyeZjrSx3r9w3sQO9lQJ/KOzHBwvJN39kw5ZMg=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ii4fO9CzPrYF6JFUt+xXQVNFeWU=
+			</data>
+			<key>hash2</key>
+			<data>
+			GaUYsFrZ/0eRAn8b+ok2RQ9XotL5DA8yo2ite933Mqg=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -204,6 +300,162 @@
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AdKQCVgu+kQPYrraHZk0nvHb0RU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Juqo5ACp6kxMxaTKCklnzdXbH9XVDsxwrkjZmb2Gw0A=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GwWBYHmtIC5nM9L567YjKxjxUO4=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Ia3Jdmibv3ZwLXG2JkOog4+CGSPf2aBpcE7q+DElh0=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JwMIHni/EdOAatQ224suJ1+dZ5Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			kqDZLgnNR3ymSfYIAdIJx9Ve67lvHQhbBTAvSEKpSUQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/LogArchiveCollector</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6r6P0UwyV4OqZfp8uRuCcXLHvvY=
+			</data>
+			<key>hash2</key>
+			<data>
+			1SOpRwfK7uuL9XtebA+g5lXXoKDOeJnkRrkLlR7uKsQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p92DS4NIbZMvY0OPJu62b9/1sU0=
+			</data>
+			<key>hash2</key>
+			<data>
+			C9htH2fPcOVvWuDaWQ0HjXnbM4CirOR1MUKi48sc6lc=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xw1wNR30d0uNbLSxaGNoHbLwXZ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			J7NoKPHvwJvrz8RBb/E1HbMjD548n2vtVKDpZozYkbc=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yurPxzU8RrW0ci+3MIuO3M8Aqmk=
+			</data>
+			<key>hash2</key>
+			<data>
+			OBAhDxWLr1mkeZOTFiFsqIbeRdzzHxvQJzpRkj4ch94=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ph88guKiS8ESpMndI0uwmxfIH+0=
+			</data>
+			<key>hash2</key>
+			<data>
+			wGJnOOyNjLK4Ej9fSzr0dSvgTZvsi55zvOyNcBkmfas=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BzLsBYpQlEle0+r94iOQ4dN0BFU=
+			</data>
+			<key>hash2</key>
+			<data>
+			pDPOvaQBiKZJ1ZDFNU8RBkBQFqn/0be7PLr4l7NX58A=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PRzeq60zTFuBhE7Fg4wAJnOX9nM=
+			</data>
+			<key>hash2</key>
+			<data>
+			HIM6xMGNpiVKK8DLwbL5SeEpbnq9EkJZvVurRfWIcqc=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7n5oRI2o67livUgKowi9dL1ewUQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			q4ZWx98dZ+KsJnqbUrMWzAT6BiOuVD5NVBVZ0DS8q2g=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ph88guKiS8ESpMndI0uwmxfIH+0=
+			</data>
+			<key>hash2</key>
+			<data>
+			wGJnOOyNjLK4Ej9fSzr0dSvgTZvsi55zvOyNcBkmfas=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q1wqJjLP7rmsLVcDtfo6VEQA6Vo=
+			</data>
+			<key>hash2</key>
+			<data>
+			QWXElfyn8FN0FgwonHfhQwbr676c3JP7/OiOxCTwJPY=
+			</data>
+		</dict>
 		<key>Ionicons.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -246,6 +498,61 @@
 			<key>hash2</key>
 			<data>
 			ua3cE7d8ZyDNSM0Y8PSoyuWJsbkQNjDCSd5gq3Lf1r4=
+			</data>
+		</dict>
+		<key>PlugIns/LineAppTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Il2EHXKVgw9ytk7w98WuqoVwIrc=
+			</data>
+			<key>hash2</key>
+			<data>
+			xehpZKwC8815SBCCygpjZ1YwF1rdulC5frC1rst6HxM=
+			</data>
+		</dict>
+		<key>PlugIns/LineAppTests.xctest.dSYM/Contents/Resources/DWARF/LineAppTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oF3/xoBMLXaIIFAdGTVEXsPrb5Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			8+qdIZj/oV/ccXOdQd6As8tILVmKCHA8GzX3TqcsZMU=
+			</data>
+		</dict>
+		<key>PlugIns/LineAppTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xwpmQhniaSyfJTdxmIdioXhJhHA=
+			</data>
+			<key>hash2</key>
+			<data>
+			XnypKM8Mv6ZQ5d8tW8lpaSxcXKd6rZaYZw+i0pGjI9g=
+			</data>
+		</dict>
+		<key>PlugIns/LineAppTests.xctest/LineAppTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1ooH+2hJdl1JrP3Pvy9h26acluI=
+			</data>
+			<key>hash2</key>
+			<data>
+			w2BEcxOex2u/77KbOSv+YLuWAppDjWftKQiwVBaFzRM=
+			</data>
+		</dict>
+		<key>PlugIns/LineAppTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ks1++oi37S2bHWKIw8k5NlEhbWk=
+			</data>
+			<key>hash2</key>
+			<data>
+			2QHo16gjqoXz3VqBj5Ke9Fvi1lnh131cmThBiy/iFHI=
 			</data>
 		</dict>
 		<key>SimpleLineIcons.ttf</key>

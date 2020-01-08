@@ -3,7 +3,6 @@ package com.lineapp;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.inprogress.reactnativeyoutube.ReactNativeYouTube;
 import com.reactnativecommunity.webview.RNCWebViewPackage;
 import com.brentvatne.react.ReactVideoPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
@@ -27,7 +26,6 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-            new ReactNativeYouTube(),
             new RNCWebViewPackage(),
             new ReactVideoPackage(),
             new VectorIconsPackage()
